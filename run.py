@@ -26,9 +26,9 @@ gj_data = gj.copy()
 #Generate folium map
 frame = folium.Figure(width=900, height=500)
 fig = folium.Map(
-    location=[51.5, -0.1],
+    location=[51.53, -0.1],
     tiles="cartodbpositron",
-    zoom_start=10.2).add_to(frame)
+    zoom_start=10.7).add_to(frame)
 folium.Choropleth(
     geo_data=gj,
     data= df1,
