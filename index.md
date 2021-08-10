@@ -1,6 +1,13 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-# Open Analytics Template
+## Multiverse Hackathon: Finding the best location to open a company’s first operational facility.
+
+ The CTO of an on-demand delivery start-up based in Greater London is looking to open the company’s first operational facility. The company uses a fleet of electric scooters to provide a “last-mile” delivery service to Fortune 500 companies in the city. The executive sponsor has asked you to make a recommendation about where to open the first location, based on the following criteria:
+ - Location with the lowest rent.
+ - Within the London ultra-low emission zone.
+ - 20 minutes from both the City and Canary Warf.
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 {% include update.html %}
 
@@ -15,12 +22,18 @@
    </p>
 </div>
 
+### Our solution
+
+<p>
+Insert more text here. 
+</p>
+
+<iframe width= "900" height="700"  src="assets/folium/folium_obj.html" style="border:none;"></iframe>
+
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-Template for end-to-end open source analytics: python, [plotly](https://plotly.com/python/), [github.io](https://pages.github.com/), and [github actions](https://github.com/features/actions).
+This page is built using end-to-end open source analytical tools including: [python](https://www.python.org/), [folium](http://python-visualization.github.io/folium/), [github.io](https://pages.github.com/), and [github actions](https://github.com/features/actions).
 
-## Plotly Chart
-
-{% include plotly_obj.html %}
+If you have any suggestions or questions, email: <a href="mailto:mattia.ficarelli@nhsx.nhs.uk">mattia.ficarelli@nhsx.nhs.uk</a>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
