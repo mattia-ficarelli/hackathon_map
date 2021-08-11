@@ -26,7 +26,7 @@
   <h3 class="nhsuk-warning-callout__label">
     Data Quality Notice<span class="nhsuk-u-visually-hidden">:</span>
   </h3>
-  <p>Postcode areas hihglted in black on the London map had no available rent data.
+  <p>Postcode areas highlighted in black on the London map had no available rent data.
   </p>
 </div>
 
