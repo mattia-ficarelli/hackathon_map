@@ -19,7 +19,6 @@
 - The two red markers on the map represent the City of London, and Canary Wharf, the key locations used in our proximity analysis
 - The purple markers on the map represent potential postcode areas that meet all of the requirements of the business case.
 - The green marker on the map represents the postcode area with the cheapest average monthly rent while meeting all the requirements of the business case.
-- Data quality note: 
 
 <iframe width= "900" height="700"  src="assets/folium/folium_obj.html" style="border:none;"></iframe>
 
