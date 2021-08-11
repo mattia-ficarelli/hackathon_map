@@ -13,9 +13,13 @@
 
 ### Our solution
 
-<p>
-Insert more text here. 
-</p>
+- The following map displays the London area.
+- Average rent prices per month (£) for each London postcode are represented on a colour scale, the darker the colour, the higher the rent. 
+- The large red area visible on the map represents London’s ultra-low emission zone (October 2021).
+- The two red markers on the map represent the City of London, and Canary Wharf, the key locations used in our proximity analysis
+- The purple markers on the map represent potential postcode areas that meet all of the requirements of the business case.
+- The green marker on the map represents the postcode area with the cheapest average monthly rent while meeting all the requirements of the business case.
+- Data quality note: postcode areas in black had no available rent data.
 
 <iframe width= "900" height="700"  src="assets/folium/folium_obj.html" style="border:none;"></iframe>
 
