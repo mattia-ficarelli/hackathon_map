@@ -11,7 +11,7 @@
 
 {% include update.html %}
 
-### Our solution
+## Our solution:
 
 - The following map displays the London area.
 - Average rent prices per month (£) for each London postcode are represented on a colour scale, the darker the colour, the higher the rent. 
