@@ -34,6 +34,6 @@
 
 This page is built using end-to-end open source analytical tools including: [python](https://www.python.org/), [folium](http://python-visualization.github.io/folium/), [github.io](https://pages.github.com/), and [github actions](https://github.com/features/actions).
 
-If you have any suggestions or questions, email: <a href="mailto:mattia.ficarelli@nhsx.nhs.uk">mattia.ficarelli@gmail.com</a>
+If you have any suggestions or questions, email: <a href="mailto:mattia.ficarelli@gmail.com">mattia.ficarelli@gmail.com</a>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
